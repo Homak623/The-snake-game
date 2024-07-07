@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\c\Snake\Snake\main.cpp(77,36): warning C4309: =: усечение константного значения
+  Snake.vcxproj -> C:\c\Snake\x64\Debug\Snake.exe
